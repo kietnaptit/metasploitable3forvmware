@@ -43,4 +43,8 @@ This is tool I use to check
 <a href="">Download Tool</a>
 # The Official page of Metasploiable 3
 <a href="https://github.com/rapid7/metasploitable3">Click here</a>
+# Some thing you need to know about me
+I am a Vietnamese preson. So I isn't a native English speaker. I can have some mistake about grammar or spelling.
+If you can help me correct mistake. Email me at anhkiet2507@hotmail.com
+Subscribe my YouTube channel <a href="https://www.youtube.com/c/KietNguyenAnhProduction"> Kiet Nguyen Anh Production </a>
 
