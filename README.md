@@ -44,10 +44,12 @@ This is tool I use to check
 # The Official page of Metasploiable 3
 <a href="https://github.com/rapid7/metasploitable3">Click here</a>
 # Some thing you need to know about me
-I am a Vietnamese preson. So I isn't a native English speaker. I can have some mistake about grammar or spelling.
+I am a Vietnamese person. So I am not a navtive English speaker. I can have some mistake about grammar or spelling.
 <br>
 If you can help me correct mistake. Email me at anhkiet2507@hotmail.com
 <br>
 Subscribe my YouTube channel <a href="https://www.youtube.com/c/KietNguyenAnhProduction"> Kiet Nguyen Anh Production </a>
 <br>
 If you want to help me, you can donate me using <a href="https://www.patreon.com/kietnguyenanhproduction" Patreon </a>
+<br>
+Thanks for reading
