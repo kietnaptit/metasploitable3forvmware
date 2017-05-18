@@ -49,4 +49,5 @@ I am a Vietnamese preson. So I isn't a native English speaker. I can have some m
 If you can help me correct mistake. Email me at anhkiet2507@hotmail.com
 <br>
 Subscribe my YouTube channel <a href="https://www.youtube.com/c/KietNguyenAnhProduction"> Kiet Nguyen Anh Production </a>
-
+<br>
+If you want to help me, you can donate me using <a href="https://www.patreon.com/kietnguyenanhproduction" Patreon </a>
