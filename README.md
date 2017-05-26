@@ -9,7 +9,6 @@ But Rapid7 only release the Vitural Box Version. So today, I release a Vmware ve
 - VT-x/AMD-V Supported Processor recommended
 - 65 GB Available space on drive
 - 4.5 GB RAM or more
-# Requirements:
 - WMware Workstation 12 or newer
 - Internet connection
 # Extract
@@ -20,7 +19,7 @@ But Rapid7 only release the Vitural Box Version. So today, I release a Vmware ve
 - First, you create a Vitural Machine as regularly
 - On the Select A Disk step. Choose Use and existing vitural Disk
 - Click Browse and navigate to the .vmdk you have extracted
-- Complete the wizard and start a Vitural Machine
+- Complete the wizard and start the Vitural Machine
 # Vulnerabilities
 <a href="https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities">See the wiki page</a>
 # Download
