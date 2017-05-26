@@ -12,10 +12,14 @@ But Rapid7 only release the Vitural Box Version. So today, I release a Vmware ve
 # Requirements:
 - WMware Workstation 12 or newer
 - Internet connection
+# Extract
+- Install WinRAR or 7Zip
+- Put 2 part into the same folder
+- Extract Part 1 and you will get the .vmdk
 # How to install
 - First, you create a Vitural Machine as regularly
 - On the Select A Disk step. Choose Use and existing vitural Disk
-- Click Browse and navigate to the .vmdk you have downloaded
+- Click Browse and navigate to the .vmdk you have extracted
 - Complete the wizard and start a Vitural Machine
 # Vulnerabilities
 <a href="https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities">See the wiki page</a>
@@ -26,10 +30,6 @@ But Rapid7 only release the Vitural Box Version. So today, I release a Vmware ve
 - One Drive link: Uploading
 <a href="">Part 1</a>.
 <a href="">Part 2</a>
-# Extract
-- Install WinRAR or 7Zip
-- Put 2 part into the same folder
-- Extract Part 1 and you will get the .vmdk
 # For Checking
 Size: 14126284800 bytes
 <br>
